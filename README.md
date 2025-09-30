@@ -44,17 +44,17 @@ Assicurati di modificare i percorsi di `pyinstaller.exe` e `signtool.exe` second
 
 Antonio – [LazyAtlas](https://github.com/LazyAtlas)
 
-<img width="732" height="153" alt="image" src="https://github.com/user-attachments/assets/9e0073aa-7de9-423e-bf3b-28814ccc0c81" />
+<img width="730" height="153" alt="image" src="https://github.com/user-attachments/assets/9e0073aa-7de9-423e-bf3b-28814ccc0c81" />
 
 
 P.S la versione è stabile e funzionante ma in alcuni casi è possibile che troppi dati possano causare errori (soprattutto se le colonne non sono uguali tra i file diversi)
 Nel qual caso è possibile si verifichi l'errore NAN che potrete correggere effettuando "RESET" e impostando il separatore su (|). 
 
-<img width="863" height="565" alt="image" src="https://github.com/user-attachments/assets/04b497e0-9559-4d10-9fe3-ba8bf3b6d7aa" />
+<img width="730" height="565" alt="image" src="https://github.com/user-attachments/assets/04b497e0-9559-4d10-9fe3-ba8bf3b6d7aa" />
 
 Quindi Ricaricate il file e avrete risolto la problematica
 
-<img width="1105" height="565" alt="image" src="https://github.com/user-attachments/assets/2292512f-c7a4-4353-96ab-84e7a532b04c" />
+<img width="730" height="565" alt="image" src="https://github.com/user-attachments/assets/2292512f-c7a4-4353-96ab-84e7a532b04c" />
 
 
                
